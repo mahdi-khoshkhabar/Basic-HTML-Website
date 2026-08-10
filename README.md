@@ -17,7 +17,8 @@
 > To demonstrate my knowledge about HTML and building web pages.
 
 #### What is the purpose?
-> Training and sharping my skills 😇.
+- Learn how to create multiple pages on a website.
+- Structure a website semantically using HTML.
 
 #### Whay did you undertake it?
 > To go throgh more advanced project and dive into the front-end world.
