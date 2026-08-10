@@ -10,7 +10,7 @@
 
 ## How to Run
 - Download the whole project
-- Run `Home.html` in `HTML` folder
+- Run `index.html` in `HTML` folder
 
 ## General Information
 #### What does this project (intend to) do?
