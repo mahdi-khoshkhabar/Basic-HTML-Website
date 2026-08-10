@@ -28,7 +28,7 @@
 - Basic Git and GitHub (VCS)
 
 ## Features
-- 5 HTML Pages
+- 4 HTML Pages
 - Favicon
 - SEO Optimised
 - OG Optimized
